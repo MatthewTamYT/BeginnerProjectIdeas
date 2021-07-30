@@ -1,2 +1,2 @@
-# BeginnerProjectIdeas
-These are beginner project ideas for Python. Feel free to use them!
+# Beginner Project Ideas
+There are great beginner project ideas here
